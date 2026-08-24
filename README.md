@@ -1,13 +1,6 @@
 <div align="center">
 
-# 💫 Hi there, I'm **Waseem Akram** 🚀
-### **Full-Stack & Mobile App Developer**
-
-*Building modern web applications, SaaS platforms, native mobile apps, and AI-powered tools.*
-
----
-
-[![GitHub streak](https://ninja-github-readme-streak-stats.vercel.app/?user=waseem3423&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D2504,100:538C1A&height=200&section=header&text=Waseem%20Akram&fontSize=46&desc=Full-Stack%20%26%20Mobile%20App%20Developer&descSize=18&descAlign=62)
 
 </div>
 
@@ -41,18 +34,15 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Contribution Activity & Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=waseem3423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem3423&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="top languages" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=waseem3423&theme=tokyonight&hide_border=true)
 
-</div>
+<br />
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=waseem3423&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-frame=true)
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waseem3423&theme=react-dark&hide_border=true)
 
 </div>
 
