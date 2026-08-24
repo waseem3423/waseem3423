@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D2504,100:538C1A&height=200&section=header&text=Waseem%20Akram&fontSize=46&desc=Full-Stack%20%26%20Mobile%20App%20Developer&descSize=18&descAlign=62)
+# 💫 Waseem Akram
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=538C1A&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+%26+Mobile+App+Developer;Building+SaaS+%26+AI+Applications;Welcome+to+my+GitHub+Profile!+🚀)](https://git.io/typing-svg)
+
+---
 
 </div>
 
@@ -34,13 +38,9 @@
 
 ---
 
-### 📊 Contribution Activity & Streak
+### 📊 Contribution Activity
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=waseem3423&theme=tokyonight&hide_border=true)
-
-<br />
 
 ![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waseem3423&theme=react-dark&hide_border=true)
 
