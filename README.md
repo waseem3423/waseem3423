@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=538C1A&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+%26+Mobile+App+Developer;Building+SaaS+%26+AI+Applications;Welcome+to+my+GitHub+Profile!+🚀)](https://git.io/typing-svg)
 
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemakram40/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseem3423)
+
 ---
 
 </div>
@@ -14,6 +19,7 @@
 - 💼 **Tech Specialities:** TypeScript, JavaScript, Node.js, React, Next.js, Python, Kotlin, Tailwind CSS.
 - ⚡ **Fun Fact:** I love building fast, developer-friendly tools and modern UI/UX experiences.
 - 🌐 **Location:** Pakistan
+- 🔗 **LinkedIn:** [waseemakram40](https://www.linkedin.com/in/waseemakram40/)
 
 ---
 
@@ -60,6 +66,16 @@
 | ⚡ **[Wate Language](https://github.com/waseem3423/wate)** | Lightweight programming language VM with package manager | JavaScript |
 
 ---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemakram40/)
+
+</div>
+
+<br />
 
 <div align="center">
   <sub>Designed with ❤️ for Waseem Akram's Profile</sub>
