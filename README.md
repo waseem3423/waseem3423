@@ -48,7 +48,11 @@
 
 <div align="center">
 
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waseem3423&theme=react-dark&hide_border=true)
+![Waseem's Contribution Graph](https://ghchart.rshah.org/538C1A/waseem3423)
+
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waseem3423&theme=react-dark&hide_border=true)](https://github.com/waseem3423)
 
 </div>
 
